@@ -2,7 +2,7 @@ package com.ejercicioabml.abmlcontroller;
 
 
 
-import com.abml.jpa.hibernate.model.Persona;
+
 
 
 import com.abml.jpa.hibernate.model.Persona;
